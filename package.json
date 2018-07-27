@@ -1,0 +1,11 @@
+{
+  "name": "NodeBitbucketPipe",
+  "version": "1.0.0",
+  "description": "A node to run bitbucket pipeline when a pull request is created/update",
+  "main": "index.js",
+  "scripts": {
+    "test": "bitpipe"
+  },
+  "author": "FranSmf",
+  "license": "BSD-2-Clause"
+}
