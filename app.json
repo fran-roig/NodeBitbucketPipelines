@@ -1,0 +1,5 @@
+{
+  "name": "NodeBitbucketPipe",
+  "description": "A node to run bitbucket pipeline when a pull request is created/update",
+  "repository": "https://github.com/fran-roig/NodeBitbucketPipelines.git"
+}
